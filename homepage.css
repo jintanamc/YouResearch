@@ -6,6 +6,9 @@ html {
   font-size: 14px;
 }
 
+.bold{
+  font-weight: 500 !important;
+}
 
 .spacing{
   letter-spacing: 3px;
@@ -28,7 +31,7 @@ html {
 }
 
 .donate{
-  margin-left: 300px;
+  margin-left: 100px;
   color:white;
   border-radius: 10px;
 }

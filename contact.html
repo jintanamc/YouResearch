@@ -76,7 +76,7 @@
                       <div class="menu">
                         <a class="item" href="programs.html">What We Do</a>
                         <a class="item" href="team.html">Our Team</a>
-                          <a class="item" href="collaborations.html">Collaborations</a>
+
                       </div>
                     </div>
                   </a>
@@ -86,7 +86,7 @@
                     <div class="menu">
                       <a class="item" href="programs.html">Our Strategy</a>
                       <a class="item" href="team.html">Getting Started</a>
-                        <a class="item" href="collaborations.html">Fellowship</a>
+                        <a class="item" href="fellowship.html">Fellowship</a>
                     </div>
                   </div>
                 </a>
@@ -97,25 +97,21 @@
                     </a>
 
 
-                  <div class="ui dropdown item">
-                    Resources <i class="users icon dropdown icon"></i>
-                    <div class="menu">
-                      <a class="item" href="programs.html">Programs</a>
-                      <a class="item" href="communication.html">Communication Skills</a>
-                    </div>
-                  </div>
+                    <a class="item" href="resources.html">
+                        <i class="users icon"></i> Resources
+                    </a>
                     <a class="item" href="contact.html">
                         <i class="send icon"></i> Contact
                     </a>
 
 
-                      <div class = "donate">
-                    <a href="https://www.paypal.me/YouResearchProgram" class="large basic primary donate animated fade ui button">
-                        <div class="visible content">Donate</div>
-                        <div class="hidden content">Donate</div>
-                    </a>
-                    </div>
+                    <div class ="donate">
+                                <a href="https://www.paypal.me/YouResearchProgram" class="large basic inverted animated fade ui button">
+                                            <div class="visible content">Donate</div>
+                                            <div class="hidden content">Donate</div>
+                                        </a>
 
+                                    </div>
                 </div>
 
 <!--page content-->
@@ -134,36 +130,54 @@
                 </div>
                 <div class="row">
                 <div class="fourteen wide column">
-                  <p class = "fourteen">For inquiries regarding a specific research area, look to see <a href="studentadv.html">which team member</a> is most equipped to answer your question. If you are interested in joining the YouResearch team, complete the respective form below. For any other inquiries, fill out the Contact Us form. Our team will respond to you within 48 hours.</p>
+                  <p class = "fourteen">For inquiries regarding a specific research area, look to see <a href="team.html">which team member</a> is most equipped to answer your question. If you are interested in joining the YouResearch team, complete the respective form below. For any other inquiries, fill out the Contact Us form. Our team will respond to you within 48 hours.</p>
                   </div>
 
 
+
+<script>
+                  $('.ui.form')
+                    .form({
+                      fields: {
+                        name     : 'empty',
+                        email : 'empty',
+
+                      }
+                    });
+
+                  $('.field.description')
+                    .popup({
+                      popup : $('.description.popup'),
+                      on    : 'click'
+                    });
+
+</script>
                   <!--form stuff-->
-                  <form action="action_page.php" method="get" class="ui form segment" id="contact_form" >
+                  <form action="" method="get" class="ui form segment" id="contact_form" >
                   <div class="three fields">
                      <div class="required field outline blue"> <!--why is this not required-->
                          <label style="float:left;">First Name</label>
-                         <input placeholder="First Name" name="fname" type="text">
+                         <input placeholder="First Name" name="name" type="text">
                      </div>
-                     <div class="field">
+                     <div class="field description">
                          <label style="float:left;">Middle Name</label>
                          <input type="text" name="mname" placeholder="Middle Name">
                      </div>
-                     <div class="required field">
+                     <div class="field description required">
                          <label style="float:left;">Last Name</label>
-                         <input placeholder="Last Name" name="lname" type="text">
+                         <input placeholder="Last Name" name="name" type="text">
                      </div>
                   </div>
-                  <div class="required field">
+                  <div class="field description required">
                      <label style="float:left;">E-mail</label>
                      <input placeholder="joe@schmoe.com" name="email" type="email">
                   </div>
-                  <div class="field">
+                  <div class="field description">
                      <label style="float:left;">Comment</label>
                      <textarea name="comment" form="contact_form"></textarea>
                   </div>
-                  <button class="ui submit button" type="submit" id="submit_form">Submit</button>
-                  <div class="ui error message"></div>
+                  <button class="ui submit button" type="button" id="submit_form">Submit</button>
+                   <div class="ui error message"></div>
                   <div class="ui success message">
                      <div class="header">Form Completed</div>
                      <p>We have received your message and will contact you soon.</p>

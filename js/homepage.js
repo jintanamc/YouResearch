@@ -20,12 +20,17 @@ $(document)
       },
       validationRules = {
         firstName: {
-          identifier  : 'email',
+          identifier  : 'name',
           rules: [
             {
               type   : 'empty',
-              prompt : 'Please enter an e-mail'
-            },
+              prompt : 'Please enter your name'
+            }
+          ]
+        },
+        email: {
+          identifier  : 'email',
+          rules: [
             {
               type   : 'email',
               prompt : 'Please enter a valid e-mail'
