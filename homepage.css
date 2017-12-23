@@ -6,6 +6,10 @@ html {
   font-size: 14px;
 }
 
+.medium {
+  font-size: 20px !important;
+}
+
 .bold{
   font-weight: 500 !important;
 }
@@ -17,12 +21,36 @@ html {
 .heighto{
   line-height: 2 !important;
 }
-/*.underline{
+
+.underline{
   margin-top: 10px;
-  border-bottom: 2px dotted blue !important;
+  left:-10px !important;
+  position: relative;
+  font-size: 19px;
+}
 
-}*/
+.bigly{
+  font-size: 21px;
+  left:-20px !important;
+  position: relative;
+  padding-bottom: 18px;
+}
 
+/*
+.blue{
+  color:brown;
+  left:-25px;
+  position: relative;
+} */
+
+li{
+  font-weight: 700 !important;
+  line-height: 1.7;
+}
+/*
+.padding{
+  padding-bottom:40px !important;
+} */
 
 /*image sizing for individual team member*/
 .imagepage{
@@ -31,7 +59,7 @@ html {
 }
 
 .donate{
-  margin-left: 100px;
+  margin-left: 320px;
   color:white;
   border-radius: 10px;
 }
@@ -40,15 +68,10 @@ html {
   line-height: 30px !important;
 }
 
-.rotate{
-  transform: rotate(90deg);
-  -ms-transform: rotate(90deg); /* IE 9 */
-    -webkit-transform: rotate(90deg); /* Safari 3-8 */
-}
 
-.donate p{
+/* .donate p{
   color: blue;
-}
+} */
 
 /*******************************
             Global
