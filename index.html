@@ -23,6 +23,17 @@
   <script src="assets/library/jquery.min.js" defer></script>
   <script src="../dist/components/visibility.js" defer></script>
   <script src="../dist/components/transition.js" defer></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111762867-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111762867-1');
+</script>
+<!--
   <script>
   $(document)
     .ready(function() {
@@ -57,7 +68,7 @@
 
     })
   ;
-  </script>
+  </script> -->
 </head>
 <body id="home" data-gr-c-s-loaded="true">
     <div class="ui inverted masthead centered segment">
@@ -75,7 +86,7 @@
                       <div class="menu">
                         <a class="item" href="whatwedo.html">What We Do</a>
                         <a class="item" href="team.html">Our Team</a>
-<a class="item" href="fellowship.html">Fellowship</a>
+<a class="item" href="collaborations.html">Collaborations</a>
 
                       </div>
                     </div>
@@ -86,7 +97,7 @@
                     <div class="menu">
                       <a class="item" href="whatwedo.html">Our Strategy</a>
                       <a class="item" href="team.html">Getting Started</a>
-                        <a class="item" href="fellowship.html">Fellowship</a>
+                        <a class="item" href="collaborations.html">Collaborations</a>
                     </div>
                   </div> -->
 
@@ -96,9 +107,19 @@
                         <i class="file text icon"></i> Blog
                     </a>
 
-                  <a class="item" href="findlab.html">
-                      <i class="lab icon"></i> Find a Lab
-                  </a>
+
+
+                  <div class="ui dropdown item">
+                    Research <i class="users icon dropdown icon"></i>
+                    <div class="menu">
+                      <a class="item" href="findlab.html">Find a Lab</a>
+                      <a class="item" href="fellowship.html">Fellowship</a>
+
+                    </div>
+                  </div>
+
+
+
                   <a class="item" href="resources.html">
                       <i class="users icon"></i> Resources
                   </a>
@@ -112,13 +133,26 @@
                         <div class="visible content">Donate</div>
                         <div class="hidden content">Donate</div>
                     </a>
-
                 </div>
 
 
 
 
 </div>
+
+<!--responsive menu-->
+<!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript">
+	$(".ui.sticky.secondary.pointing.menu").addClass("js").before('<div id="menu">&#9776;</div>');
+	$("#menu").click(function(){
+		$("#nav").toggle();
+	});
+	$(window).resize(function(){
+		if(window.innerWidth > 768) {
+			$("#nav").removeAttr("style");
+		}
+	});
+</script> -->
 
 
 
@@ -157,7 +191,7 @@
                                 <i id="one" class="flaticon-connecting icon"></i><br/>
                                 <div style="font-size:2em">Before Research</div><br/><br/>
                             <a href ="fellowship.html">  <div style="font-size:16px">Starting your experience</div><br/>
-                                <div style="font-size:16px">YouResearch Fellowship Programs</div> </a>  
+                                <div style="font-size:16px">YouResearch Fellowship Programs</div> </a>
                             </div>
                             <div class="five wide column active step">
                                 <i id="one" class="flaticon-calendar icon"></i><br/>
@@ -176,7 +210,7 @@
             <div class="ui centered page grid">
                 <div class="row">
                   <br>
-                    <h2 class="subscribe-header">What We Do</h2>
+                    <h2 class="ui centered header border">What We Do</h2>
                     <p class="ui centered lead large"></p>
                 </div>
                 <div class="ui twelve wide column">
@@ -281,101 +315,7 @@
             </div>
         </div>
     </div>
-    <div class="ui vertical segment">
-        <div class="ui stackable center aligned page grid">
-            <div class="row">
-                <div class="fourteen wide column">
-                    <h1 class="ui header">
-                        Our Partners
-                    </h1><div class="ui horizontal divider"><i class="flaticon-settings icon"></i></div>
-                    <p class="ui centered lead">
-                        These organizations provide a chief foundation for the YouResearch program and function as our bridge to the community. Their funding and support allows our team to assist future scientists and innovators in their current research endeavors.
-                    </p>
-                    <br>
-                </div>
-            </div>
 
-            <div class="centered row">
-                <div class="ui stackable vertically divided relaxed grid">
-                    <h2 class="ui header">Sponsorships</h2>
-                    <div class="two column row">
-                        <div class="column">
-                            <img style="height:140px; margin-bottom:20px;" src="images/google.png">
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/spruce.gif">
-                        </div>
-                    </div>
-                    <h2 class="ui header">Partnerships</h2>
-                    <div class="two column row">
-                        <div class="column">
-                            <div class="ui basic segment"><img style="height:130px; margin-bottom:20px;" src="images/ysa.png"></div>
-                            <div class="ui basic segment"><img style="height:190px; margin-bottom:20px;" src="images/sphere.png"></div>
-                        </div>
-                        <div class="column">
-                            <img style="height:340px; margin-top:40px;" src="images/powerhouse.png">
-                        </div>
-                    </div>
-                    <h2 class="ui header">Affiliated Organizations</h2>
-                    <div class="three column row">
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/uwash.png"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:110px; margin-bottom:20px;" src="images/hunter.png"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/usf.png"/>
-                        </div>
-                    </div>
-                    <div class="three column row">
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/bellevue.png"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/houston.png"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/evergreen.png"/>
-                        </div>
-                    </div>
-                    <div class="three column row">
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/nyit.png"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/nyu.png"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/ucf.png"/>
-                        </div>
-                    </div>
-                    <div class="three column row">
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/fred.gif"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/queens.png"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/sjcc.png"/>
-                        </div>
-                    </div>
-                    <div class="three column row">
-                        <div class="column">
-                            <img style="height:110px; margin-bottom:20px;" src="images/sfsu.png"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/housatonic.jpg"/>
-                        </div>
-                        <div class="column">
-                            <img style="height:130px; margin-bottom:20px;" src="images/thomas.jpg"/>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="ui inverted vertical footer segment">
 
 
@@ -386,7 +326,7 @@
                     <a class="item" href="https://www.linkedin.com/company/youresearch?trk=ppro_cprof"><i class="linkedin icon" style="font-size:1.5em;"></i></a>
                 </div>
                 <div class="two column row">
-                    <a href="http://jintana.me" target="_blank" id="footer" style="color:beige; font-size:1.0em;">Made with <i class="heart icon" style="color:#e74c3c; font-size:1.2vw;"></i>by Jintana</a>
+                    <a href="http://jintana.me" target="_blank" id="footer" style="color:beige; font-size:1.0em;">Made with <i class="heart icon" style="color:#e74c3c;"></i>by Jintana</a>
                 </div>
             </div>
             </div>

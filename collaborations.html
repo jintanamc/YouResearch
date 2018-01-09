@@ -1,0 +1,290 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- Standard Meta -->
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="images/YRAELogo.png"> <!--favicon-->
+
+  <!-- Site Properties -->
+  <title>YouResearch</title>
+    <link rel="stylesheet" type="text/css" href="semantic/dist/semantic.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="homepage.css">
+    <link rel="stylesheet" type="text/css" href="flaticon.css">
+<script
+  src="https://code.jquery.com/jquery-3.1.1.min.js"
+  integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
+  crossorigin="anonymous" defer></script>
+<script src="semantic/dist/semantic.min.js" defer></script>
+  <script src="js/homepage.js" defer></script>
+  <script src="assets/library/jquery.min.js" defer></script>
+  <script src="../dist/components/visibility.js" defer></script>
+  <script src="../dist/components/transition.js" defer></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111762867-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111762867-1');
+</script>
+<!--
+  <script>
+  $(document)
+    .ready(function() {
+
+
+
+
+      // fix menu when passed
+      $('.masthead')
+        .visibility({
+          once: false,
+          onBottomPassed: function() {
+            $('.fixed.menu').transition('fade in');
+          },
+          onBottomPassedReverse: function() {
+            $('.fixed.menu').transition('fade out');
+          }
+        })
+      ;
+
+      // create sidebar and attach to menu open
+      $('.ui.sidebar')
+        .sidebar('attach events', '.toc.item')
+      ;
+      $('.ui.form')
+                .form({
+                fields: {
+                    fname   : 'empty',
+                    lname   : 'empty'
+                }
+            });
+
+    })
+  ;
+  </script> -->
+</head>
+<body id="home" data-gr-c-s-loaded="true">
+    <div class="ui inverted masthead centered segment">
+        <div class="ui page grid">
+            <div class="column">
+<!--change hero to lab -->
+<!--Menu-->
+                <div class="ui sticky secondary pointing menu">
+                    <a class="logo item" style="margin-bottom:10px;" href="index.html">
+                        YouResearch
+                    </a>
+
+                    <div class="ui dropdown item">
+                      About Us <i class="users icon dropdown icon"></i>
+                      <div class="menu">
+                        <a class="item" href="whatwedo.html">What We Do</a>
+                        <a class="item" href="team.html">Our Team</a>
+<a class="item" href="collaborations.html">Collaborations</a>
+
+                      </div>
+                    </div>
+
+
+                  <!-- <div class="ui dropdown item">
+                    Research <i class="users icon dropdown icon"></i>
+                    <div class="menu">
+                      <a class="item" href="whatwedo.html">Our Strategy</a>
+                      <a class="item" href="team.html">Getting Started</a>
+                        <a class="item" href="collaborations.html">Collaborations</a>
+                    </div>
+                  </div> -->
+
+
+
+                    <a class="item" href="blog.html">
+                        <i class="file text icon"></i> Blog
+                    </a>
+
+                    <div class="ui dropdown item">
+                      Research <i class="users icon dropdown icon"></i>
+                      <div class="menu">
+                        <a class="item" href="findlab.html">Find a Lab</a>
+                        <a class="item" href="fellowship.html">Fellowship</a>
+
+                      </div>
+                    </div>
+                  <a class="item" href="resources.html">
+                      <i class="users icon"></i> Resources
+                  </a>
+                    <a class="item" href="contact.html">
+                        <i class="send icon"></i> Contact
+                    </a>
+
+<!--donate button-->
+<div class ="donate">
+            <a href="https://www.paypal.me/YouResearchProgram" class="large basic inverted animated fade ui button">
+                        <div class="visible content">Donate</div>
+                        <div class="hidden content">Donate</div>
+                    </a>
+                </div>
+
+
+
+
+</div>
+
+<!--responsive menu-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript">
+	$(".ui.sticky.secondary.pointing.menu").addClass("js").before('<div id="menu">&#9776;</div>');
+	$("#menu").click(function(){
+		$("#nav").toggle();
+	});
+	$(window).resize(function(){
+		if(window.innerWidth > 768) {
+			$("#nav").removeAttr("style");
+		}
+	});
+</script>
+
+
+
+
+<!-- page info-->
+
+
+</div>
+</div>
+</div>
+                    <div class="ui vertical segment">
+    <div class="ui stackable center aligned page grid">
+        <div class="row">
+            <div class="fourteen wide column">
+                <h1 class="ui header">
+                    Our Partners
+                </h1><div class="ui horizontal divider"><i class="flaticon-settings icon"></i></div>
+                <p class="ui centered lead">
+                    These organizations provide a chief foundation for the YouResearch program and function as our bridge to the community. Their funding and support allows our team to assist future scientists and innovators in their current research endeavors.
+                </p>
+                <br>
+            </div>
+        </div>
+
+        <div class="centered row">
+            <div class="ui stackable vertically divided relaxed grid">
+                <h2 class="ui header">Sponsorships</h2>
+                <div class="two column row">
+                    <div class="column">
+                        <img style="height:140px; margin-bottom:20px;" src="images/google.png">
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/spruce.gif">
+                    </div>
+                </div>
+                <h2 class="ui header">Partnerships</h2>
+                <div class="two column row">
+                    <div class="column">
+                        <div class="ui basic segment"><img style="height:130px; margin-bottom:20px;" src="images/ysa.png"></div>
+                        <div class="ui basic segment"><img style="height:190px; margin-bottom:20px;" src="images/sphere.png"></div>
+                    </div>
+                    <div class="column">
+                        <img style="height:340px; margin-top:40px;" src="images/powerhouse.png">
+                    </div>
+                </div>
+                <h2 class="ui header">Affiliated Organizations</h2>
+                <div class="three column row">
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/uwash.png"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:110px; margin-bottom:20px;" src="images/hunter.png"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/usf.png"/>
+                    </div>
+                </div>
+                <div class="three column row">
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/bellevue.png"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/houston.png"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/evergreen.png"/>
+                    </div>
+                </div>
+                <div class="three column row">
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/nyit.png"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/nyu.png"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/ucf.png"/>
+                    </div>
+                </div>
+                <div class="three column row">
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/fred.gif"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/queens.png"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/sjcc.png"/>
+                    </div>
+                </div>
+                <div class="three column row">
+                    <div class="column">
+                        <img style="height:110px; margin-bottom:20px;" src="images/sfsu.png"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/housatonic.jpg"/>
+                    </div>
+                    <div class="column">
+                        <img style="height:130px; margin-bottom:20px;" src="images/thomas.jpg"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+  <div class="ui inverted vertical footer segment">
+
+
+          <div class="ui center aligned container">
+              <img src="images/glass.png" class="ui centered mini image"><br>
+              <div class="ui horizontal inverted small divided link list">
+                  <a class="item" href="https://www.facebook.com/YouResearch"><i class="facebook icon" style="font-size:1.5em;"></i></a>
+                  <a class="item" href="https://www.linkedin.com/company/youresearch?trk=ppro_cprof"><i class="linkedin icon" style="font-size:1.5em;"></i></a>
+              </div>
+              <div class="two column row">
+                  <a href="http://jintana.me" target="_blank" id="footer" style="color:beige; font-size:1.0em;">Made with <i class="heart icon" style="color:#e74c3c;"></i>by Jintana</a>
+              </div>
+          </div>
+          </div>
+<!--  <script>
+  var $form = $('form#test-form'),
+        url = 'https://script.google.com/macros/u/1/s/AKfycbzrqSqjEBgzzWXDRRLjtPmbdIwZGhtcy6Nwmrl_9G52UnLodPs/exec'
+    ('#submit-form').on('click', function(e) {
+        e.preventDefault();
+        var jqxhr = $.ajax({
+            url: url,
+            method: "GET",
+            dataType: "json",
+            data: $form.serializeObject()
+        }).success(
+        );
+    })
+  </script-->
+</body>
+</html>
