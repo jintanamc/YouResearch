@@ -36,12 +36,12 @@ html {
   padding-bottom: 18px;
 }
 
-/*
-.blue{
-  color:brown;
-  left:-25px;
+.centered-font{
+  text-align: center;
+  /* top:-30px; */
   position: relative;
-} */
+
+}
 
 li{
   font-weight: 700 !important;
@@ -224,6 +224,7 @@ font-weight: 300;margin: 0;padding: 30px 0 0 0;font-size: 16pt;letter-spacing: 1
 
 .ui.secondary.pointing.menu {
     border-bottom: 1px solid rgba(255,255,255, 0.1);
+    width:620px;
 }
 .ui.menu .logo.item{
     font-weight: 800;color: #ffffff;font-size: 16pt;padding: 0 10px !important;
