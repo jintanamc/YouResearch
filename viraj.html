@@ -13,23 +13,15 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="homepage.css">
     <link rel="stylesheet" type="text/css" href="flaticon.css">
-    <script
-            src="https://code.jquery.com/jquery-3.1.1.min.js"
+    <script src="https://code.jquery.com/jquery-3.1.1.min.js"
             integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="
             crossorigin="anonymous" defer></script>
     <script src="semantic/dist/semantic.min.js" defer></script>
     <script src="js/homepage.js" defer></script>
-    <script src="assets/library/jquery.min.js" defer></script>
-    <script src="../dist/components/visibility.js" defer></script>
-    <script src="../dist/components/transition.js" defer></script>
     <script>
         $(document)
             .ready(function () {
-
-
-
-
-                // fix menu when passed
+                // TODO fix menu when passed
                 $('.masthead')
                     .visibility({
                         once: false,
@@ -39,13 +31,11 @@
                         onBottomPassedReverse: function () {
                             $('.fixed.menu').transition('fade out');
                         }
-                    })
-                ;
+                    });
 
                 // create sidebar and attach to menu open
                 $('.ui.sidebar')
-                    .sidebar('attach events', '.toc.item')
-                ;
+                    .sidebar('attach events', '.toc.item');
                 $('.ui.form')
                     .form({
                         fields: {
@@ -54,8 +44,7 @@
                         }
                     });
 
-            })
-        ;
+            });
     </script>
 </head>
 <body id="home" data-gr-c-s-loaded="true">
@@ -78,14 +67,13 @@
 
                     </div>
                 </div>
-                </a>
 
                 <!-- <div class="ui dropdown item">
                   Research <i class="users icon dropdown icon"></i>
                   <div class="menu">
                     <a class="item" href="whatwedo.html">Our Strategy</a>
                     <a class="item" href="team.html">Getting Started</a>
-                      <a class="item" href="collaborations.html">Fellowship</a>
+                      <a class="item" href="collaborations.html">Collaborations</a>
                   </div>
                 </div>
               </a> -->
@@ -107,7 +95,6 @@
                 <a class="item" href="resources.html">
                     <i class="users icon"></i> Resources
                 </a>
-
                 <a class="item" href="contact.html">
                     <i class="send icon"></i> Contact
                 </a>
@@ -129,7 +116,6 @@
     </div>
 
 </div>
-</div>
 
 
 <div class="ui centered page grid">
@@ -145,38 +131,40 @@
 
 
             <div class="ui two column grid">
-                <div class="column"
-                <br/><br/><br/>
+                <div class="column">
+                    <br/><br/><br/>
 
-                <img src="images/viraj.jpg" style="height:300px width:20px;" class="imagepage">
-                <!---modal popup or nah-->
+                    <img src="images/viraj.jpg" style="height:300px; width:20px;" class="imagepage">
+                    <!---modal popup or nah-->
+                </div>
+                <div class="column">
+                    <br/>
+                    <h3>Role: Business Associate</h3>
+                    <h3> Institution: Studies Industrial Engineering &amp; Operations Research at the University of
+                        California,
+                        Berkeley</h3>
+                    <br/>
+                    <br/>
+                    <p style="font-size:16px"> Viraj Attre is an engineering student at UC Berkeley. He's interested in
+                        control systems and sensor design, and has conducted research on novel Internet-of-Things
+                        applications with Qualcomm, San Francisco Airport and several autonomous car companies. He's
+                        thrilled by the ways computing can open up unexplored phenomenon and feelings, and hopes to
+                        design
+                        incredible experiences and detect emergent threats in fields like puppetry, homeland security
+                        and
+                        water conservation. He can't wait to help others find the new perspectives that change their
+                        lives.</p>
+                </div>
+
+
+                <br/>
+                <br/>
+                <br/>
+
+
             </div>
-            <div class="column">
-                <br/>
-                <h3>Role: Business Associate</h3>
-                <h3> Institution: Studies Industrial Engineering &amp; Operations Research at the University of
-                    California,
-                    Berkeley</h3>
-                <br/>
-                <br/>
-                <p style="font-size:16px"> Viraj Attre is an engineering student at UC Berkeley. He's interested in
-                    control systems and sensor design, and has conducted research on novel Internet-of-Things
-                    applications with Qualcomm, San Francisco Airport and several autonomous car companies. He's
-                    thrilled by the ways computing can open up unexplored phenomenon and feelings, and hopes to design
-                    incredible experiences and detect emergent threats in fields like puppetry, homeland security and
-                    water conservation. He can't wait to help others find the new perspectives that change their
-                    lives.</p>
-            </div>
-
-
-            <br/>
-            <br/>
-            <br/>
-
-
         </div>
     </div>
-</div>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
