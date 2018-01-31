@@ -107,9 +107,6 @@ body {
     Masthead
 ---------------*/
 
-#home{
-  display: flex;
-}
 
 #home .masthead {
   /* background: rgb(24,42,115);
