@@ -1,0 +1,70 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+html	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^<html>$/;"	function	line:2
+head	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^<head>$/;"	function	line:3
+meta	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <meta charset="utf-8" \/>$/;"	function	line:5
+meta	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" \/>$/;"	function	line:6
+meta	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">$/;"	function	line:7
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <link rel="shortcut icon" type="image\/x-icon" href="images\/favicon.png">$/;"	function	line:8
+title	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <title>YouResearch<\/title>$/;"	function	line:11
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <link rel="stylesheet" type="text\/css" href="semantic\/dist\/semantic.min.css">$/;"	function	line:12
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <link href="https:\/\/fonts.googleapis.com\/css?family=Open+Sans:300" rel="stylesheet">$/;"	function	line:13
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <link rel="stylesheet" type="text\/css" href="homepage.css">$/;"	function	line:14
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <link rel="stylesheet" type="text\/css" href="flaticon.css">$/;"	function	line:15
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^<script src="semantic\/dist\/semantic.min.js" defer><\/script>$/;"	function	line:20
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <script src="js\/homepage.js" defer><\/script>$/;"	function	line:21
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <script src="assets\/library\/jquery.min.js" defer><\/script>$/;"	function	line:22
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <script src="..\/dist\/components\/visibility.js" defer><\/script>$/;"	function	line:23
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <script src="..\/dist\/components\/transition.js" defer><\/script>$/;"	function	line:24
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <script>$/;"	function	line:25
+body	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^<body id="home" data-gr-c-s-loaded="true">$/;"	function	line:61
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <div class="ui inverted masthead centered segment">$/;"	function	line:62
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^        <div class="ui page grid">$/;"	function	line:63
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^            <div class="column">$/;"	function	line:64
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <a class="logo item" style="margin-bottom:10px;" href="index.html">$/;"	function	line:67
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <div class="ui dropdown item">$/;"	function	line:71
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^      <div class="menu">$/;"	function	line:73
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^        <a class="item" href="whatwedo.html">What We Do<\/a>$/;"	function	line:74
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^        <a class="item" href="team.html">Our Team<\/a>$/;"	function	line:75
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^<a class="item" href="collaborations.html">Collaborations<\/a>$/;"	function	line:76
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <div class="menu">$/;"	function	line:84
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^      <a class="item" href="whatwedo.html">Our Strategy<\/a>$/;"	function	line:85
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^      <a class="item" href="team.html">Getting Started<\/a>$/;"	function	line:86
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^        <a class="item" href="collaborations.html">Collaborations<\/a>$/;"	function	line:87
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <a class="item" href="blog.html">$/;"	function	line:93
+i	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^        <i class="file text icon"><\/i> Blog$/;"	function	line:94
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <div class="ui dropdown item">$/;"	function	line:97
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <div class="menu">$/;"	function	line:99
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^      <a class="item" href="findlab.html">Find a Lab<\/a>$/;"	function	line:100
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^      <a class="item" href="fellowship.html">Fellowship<\/a>$/;"	function	line:101
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  <a class="item" href="resources.html">$/;"	function	line:106
+i	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^      <i class="users icon"><\/i> Resources$/;"	function	line:107
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <a class="item" href="contact.html">$/;"	function	line:110
+i	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^        <i class="send icon"><\/i> Contact$/;"	function	line:111
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^    <div class ="donate">$/;"	function	line:114
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <a href="https:\/\/www.paypal.me\/YouResearchGlobal" class="large basic inverted animated fade ui button">$/;"	function	line:115
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                            <div class="visible content">Donate<\/div>$/;"	function	line:116
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                            <div class="hidden content">Donate<\/div>$/;"	function	line:117
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="ui vertical feature segment">$/;"	function	line:129
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="ui centered page grid">$/;"	function	line:130
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="row">$/;"	function	line:131
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="fourteen wide column">$/;"	function	line:132
+br	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                    <br\/><br\/>$/;"	function	line:133
+h	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                    <h2 class="ui centered header border underline">Going Beyond Stem<\/h2>$/;"	function	line:134
+br	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                    <br\/>$/;"	function	line:136
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="row">$/;"	function	line:139
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="fourteen wide column">$/;"	function	line:140
+img	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                  <img src="images\/stem.jpg" style="height:400px;width:600px;" class ="ui centered image">$/;"	function	line:142
+p	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                          <p>$/;"	function	line:143
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="ui vertical footer segment">$/;"	function	line:158
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^            <div class="ui center aligned container">$/;"	function	line:160
+img	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <img src="images\/glass.png" class="ui centered mini image"><br>$/;"	function	line:161
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="ui horizontal inverted small divided link list">$/;"	function	line:162
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                  <a class="item" href="https:\/\/www.facebook.com\/YouResearch"><i class="facebook icon" style="font-size:1.5em;"><\/i><\/a>$/;"	function	line:163
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                  <a class="item" href="https:\/\/www.linkedin.com\/company\/youresearch?trk=ppro_cprof"><i class="linkedin icon" style="font-size:1.5em;"><\/i><\/a>$/;"	function	line:164
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="two column row">$/;"	function	line:166
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                    <a href="https:\/\/www.linkedin.com\/in\/jintana-cunningham\/" target="_blank" id="footer" style="color:beige; font-size:1.0em;">Made with <i class="heart icon" style="color:#e74c3c;"><\/i>by Jintana<\/a>$/;"	function	line:167
