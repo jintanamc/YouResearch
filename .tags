@@ -279,3 +279,88 @@ a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^  
 a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                  <a class="item" href="https:\/\/www.linkedin.com\/company\/youresearch?trk=ppro_cprof"><i class="linkedin icon" style="font-size:1.5em;"><\/i><\/a>$/;"	function	line:164
 div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                <div class="two column row">$/;"	function	line:166
 a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/goingbeyond.html	/^                    <a href="https:\/\/www.linkedin.com\/in\/jintana-cunningham\/" target="_blank" id="footer" style="color:beige; font-size:1.0em;">Made with <i class="heart icon" style="color:#e74c3c;"><\/i>by Jintana<\/a>$/;"	function	line:167
+html	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^<html>$/;"	function	line:3
+head	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^<head>$/;"	function	line:4
+meta	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <meta charset="utf-8" \/>$/;"	function	line:6
+meta	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" \/>$/;"	function	line:7
+meta	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">$/;"	function	line:8
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <link rel="shortcut icon" type="image\/x-icon" href="images\/favicon.png">$/;"	function	line:9
+title	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <title>YouResearch<\/title>$/;"	function	line:12
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <link rel="stylesheet" type="text\/css" href="semantic\/dist\/semantic.min.css">$/;"	function	line:13
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <link href="https:\/\/fonts.googleapis.com\/css?family=Open+Sans:300" rel="stylesheet">$/;"	function	line:14
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <link rel="stylesheet" type="text\/css" href="homepage.css">$/;"	function	line:15
+link	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <link rel="stylesheet" type="text\/css" href="flaticon.css">$/;"	function	line:16
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^<script src="semantic\/dist\/semantic.min.js" defer><\/script>$/;"	function	line:21
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <script src="js\/homepage.js" defer><\/script>$/;"	function	line:22
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <script src="assets\/library\/jquery.min.js" defer><\/script>$/;"	function	line:23
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <script src="..\/dist\/components\/visibility.js" defer><\/script>$/;"	function	line:24
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <script src="..\/dist\/components\/transition.js" defer><\/script>$/;"	function	line:25
+script	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <script>$/;"	function	line:26
+body	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^<body id="home" data-gr-c-s-loaded="true">$/;"	function	line:62
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <div class="ui inverted masthead centered segment">$/;"	function	line:63
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^        <div class="ui page grid">$/;"	function	line:64
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^            <div class="column">$/;"	function	line:65
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^<div class="ui sticky secondary pointing menu">$/;"	function	line:69
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <a class="logo item" style="margin-bottom:10px;" href="index.html">$/;"	function	line:70
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <div class="ui dropdown item">$/;"	function	line:74
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^      <div class="menu">$/;"	function	line:76
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^        <a class="item" href="whatwedo.html">What We Do<\/a>$/;"	function	line:77
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^        <a class="item" href="team.html">Our Team<\/a>$/;"	function	line:78
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^<a class="item" href="collaborations.html">Collaborations<\/a>$/;"	function	line:79
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <div class="menu">$/;"	function	line:87
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^      <a class="item" href="whatwedo.html">Our Strategy<\/a>$/;"	function	line:88
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^      <a class="item" href="team.html">Getting Started<\/a>$/;"	function	line:89
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^        <a class="item" href="collaborations.html">Fellowship<\/a>$/;"	function	line:90
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <a class="item" href="blog.html">$/;"	function	line:96
+i	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^        <i class="file text icon"><\/i> Blog$/;"	function	line:97
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <div class="ui dropdown item">$/;"	function	line:100
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <div class="menu">$/;"	function	line:102
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <a class="item" href="findlab.html">Find a Lab<\/a>$/;"	function	line:103
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <a class="item" href="fellowship.html">Fellowship<\/a>$/;"	function	line:104
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^  <a class="item" href="resources.html">$/;"	function	line:109
+i	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^      <i class="users icon"><\/i> Resources$/;"	function	line:110
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <a class="item" href="contact.html">$/;"	function	line:112
+i	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^        <i class="send icon"><\/i> Contact$/;"	function	line:113
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^    <div class ="donate">$/;"	function	line:115
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <a href="https:\/\/www.paypal.me\/YouResearchGlobal" class="large basic inverted animated fade ui button">$/;"	function	line:116
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                            <div class="visible content">Donate<\/div>$/;"	function	line:117
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                            <div class="hidden content">Donate<\/div>$/;"	function	line:118
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="ui vertical feature segment">$/;"	function	line:130
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="ui centered page grid">$/;"	function	line:131
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="row">$/;"	function	line:132
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="fourteen wide column">$/;"	function	line:133
+br	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                    <br\/><br\/>$/;"	function	line:134
+h	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                    <h2 class="ui centered header border">Contact<\/h2>$/;"	function	line:135
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="row">$/;"	function	line:139
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="fourteen wide column">$/;"	function	line:140
+img	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <img src = "images\/Humansofyr.png" \/>$/;"	function	line:141
+p	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <p class = "fourteen">For inquiries regarding a specific research area, look to see <a href="team.html">which team member<\/a> is most equipped to answer your question. If you are interested in joining the YouResearch team, reach out at <a href="mailto:info@youresearch.org" target="_top">info@youresearch.org<\/a> <\/p>$/;"	function	line:142
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <div class="three fields">$/;"	function	line:166
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <div class="required field outline blue">$/;"	function	line:167
+label	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                         <label style="float:left;">First Name<\/label>$/;"	function	line:168
+input	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                         <input placeholder="First Name" name="name" type="text">$/;"	function	line:169
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <div class="field description">$/;"	function	line:171
+label	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                         <label style="float:left;">Middle Name<\/label>$/;"	function	line:172
+input	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                         <input type="text" name="mname" placeholder="Middle Name">$/;"	function	line:173
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <div class="field description required">$/;"	function	line:175
+label	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                         <label style="float:left;">Last Name<\/label>$/;"	function	line:176
+input	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                         <input placeholder="Last Name" name="name" type="text">$/;"	function	line:177
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <div class="field description required">$/;"	function	line:180
+label	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <label style="float:left;">E-mail<\/label>$/;"	function	line:181
+input	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <input placeholder="joe@schmoe.com" name="email" type="email">$/;"	function	line:182
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <div class="field description">$/;"	function	line:184
+label	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <label style="float:left;">Comment<\/label>$/;"	function	line:185
+textarea	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <textarea name="comment" form="contact_form"><\/textarea>$/;"	function	line:186
+button	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <button class="ui submit button" type="button" id="submit_form">Submit<\/button>$/;"	function	line:188
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                   <div class="ui error message"><\/div>$/;"	function	line:189
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <div class="ui success message">$/;"	function	line:190
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <div class="header">Form Completed<\/div>$/;"	function	line:191
+p	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                     <p>We have received your message and will contact you soon.<\/p>$/;"	function	line:192
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="ui vertical footer segment">$/;"	function	line:202
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^            <div class="ui center aligned container">$/;"	function	line:204
+img	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <img src="images\/glass.png" class="ui centered mini image"><br>$/;"	function	line:205
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="ui horizontal inverted small divided link list">$/;"	function	line:206
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <a class="item" href="https:\/\/www.facebook.com\/YouResearch"><i class="facebook icon" style="font-size:1.5em;"><\/i><\/a>$/;"	function	line:207
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                  <a class="item" href="https:\/\/www.linkedin.com\/company\/youresearch?trk=ppro_cprof"><i class="linkedin icon" style="font-size:1.5em;"><\/i><\/a>$/;"	function	line:208
+div	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                <div class="two column row">$/;"	function	line:210
+a	/Users/jintanacunningham/Desktop/dalton noob/YouResearch/contact.html	/^                    <a href="https:\/\/www.linkedin.com\/in\/jintana-cunningham\/" target="_blank" id="footer" style="color:beige; font-size:1.0em;">Made with <i class="heart icon" style="color:#e74c3c;"><\/i>by Jintana<\/a>$/;"	function	line:211
